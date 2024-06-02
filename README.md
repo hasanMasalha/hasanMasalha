@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hasanMasalha
 - 👀 I’m interested in software engineering
-- 🌱 I’m 3rd year student pursuing B.Sc in information systems at the university of Haifa
+- 🌱 graduated from the University of Haifa, earning a B.Sc. in Information Systems.
 - 📫 How to reach me https://www.linkedin.com/in/hasan-masalha-sw/
 
 <!---
