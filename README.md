@@ -21,7 +21,7 @@ Software engineer with a B.Sc. in Information Systems from the University of Hai
 
 ## 📚 Education
 
-**B.Sc. Information Systems** — University of Haifa
+**B.Sc. Information Systems** — University of Haifa /n
 **Software Developer Bootcamp** – Appleseeds
 
 ---
