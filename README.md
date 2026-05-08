@@ -1,7 +1,7 @@
 # Hi, I'm Hasan Masalha 👋
 
 Software Engineer with a B.Sc. in Information Systems from the University of Haifa, passionate about building clean, scalable, and maintainable software systems. Skilled in backend development, APIs, databases, and AI-powered development workflows, with a strong focus on writing efficient, reliable, and modern code.
--
+
 
 ## 🛠 Tech stack
 
